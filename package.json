@@ -1,0 +1,33 @@
+	{
+  "name": "msg-st",
+  "version": "1.0.0",
+  "description": "This is the official MSG Speed Test App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhantvinchurkar/msg-st.git"
+  },
+  "keywords": [
+    "msg",
+    "speed",
+    "test",
+    "internet"
+  ],
+  "author": "Siddhant Vinchurkar",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/siddhantvinchurkar/msg-st/issues"
+  },
+  "homepage": "https://github.com/siddhantvinchurkar/msg-st#readme",
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
