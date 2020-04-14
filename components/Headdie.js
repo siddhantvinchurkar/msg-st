@@ -3,7 +3,9 @@ import Head from 'next/head';
 
 const Headdie = () => (
     <Head>
-        <link rel="preconnect" href="https://bestocon.com/" />
+        <link rel="preconnect" href="https://msg-st.wildscript.tech/" />
+        <link rel="preconnect" href="https://api.msg-st.wildscript.tech/" />
+        <link rel="preconnect" href="https://jsonip.com/" />
         <link rel="preconnect" href="https://google.com" crossorigin />
         <link rel="preconnect" href="https://firebaseremoteconfig.googleapis.com" crossorigin />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
