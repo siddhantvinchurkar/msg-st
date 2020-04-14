@@ -160,7 +160,7 @@
 ## License and Privacy
 
 1. I believe in freedom. Which is why this repository is licensed using [![Some things in life are worth waiting for…](wtfpl-badge.png "WTFPL")](http://www.wtfpl.net/ "WTFPL") ([view license](https://github.com/siddhantvinchurkar/msg-st/blob/master/LICENSE.md "License - WTFPL")).
-2. In a world where data is king, guarding privacy is a must. Which is why my version of [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App") will never collect any personal information. That being said, I still maintain a __GDPR compliant privacy policy__ available at [https://msg-st.wildscript.tech/privacy](https://msg-st.wildscript.tech/privacy "Privacy Policy").
+2. In a world where data is king, guarding privacy is a must. Which is why my version of [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App") will never collect any personal information. That being said, I still maintain a __GDPR compliant privacy policy__ available at [https://msg-st.wildscript.tech/privacy](https://msg-st.wildscript.tech/privacy "Privacy Policy").
 
 
 
