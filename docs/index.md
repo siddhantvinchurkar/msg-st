@@ -1,2 +1,2 @@
 # MSG Speed Test App
-## This is the official MSG Speed Test App
+## Official documentation for the MSG Speed Test App
