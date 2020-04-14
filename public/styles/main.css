@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html
+{
+	font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #DDFFDD !important;
+}
+
+body
+{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main
+{
+   flex: 1 0 auto;
+   padding-top: 7.5em !important;
+   min-height: 39em !important;
+}
+
+nav
+{
+	position: fixed !important;
+	top: 0;
+	z-index: 5;
+    padding-top: -5em !important;
+    background-color: #8BC34A;
+}
+
+.hidethis
+{
+    display: none !important;
+}
+
+.page-footer
+{
+    background-color: #8BC34A;
+    padding-top: 0em !important;
+}
+
+.footer-logo
+{
+    font-size: 3em !important;
+    line-height: 0.4em !important;
+    text-shadow: 12px 10px #435A29 !important;
+}
+
+.header-logo
+{
+    font-size: 3em !important;
+    text-shadow: 6px 5px #435A29 !important;
+}
+
+.xl-text-footer
+{
+    font-size: 4.5em !important;
+}
+
+.xl-text-footer-heading
+{
+    font-size: 4.5em !important;
+    text-shadow: 6px 5px #435A29 !important;
+}
+
+.heart-shadow
+{
+    text-shadow: 4px 5px #5A0000 !important;
+}
+
+.lobster
+{
+    font-family: 'Lobster', cursive !important;
+}
+
+.styled-link
+{
+    color: #435A29 !important;
+}
+
+.card-header-shadow
+{
+    text-shadow: 3px 3px #435A29 !important;
+}
+
+.progress
+{
+    height: 1em;
+    margin-top: 0em;
+    background-color: #5E7E39;
+}
+
+.card-panel
+{
+    border-radius: 2em !important;
+    border: 0.5em solid #435A29 !important;
+}
+
+#b1, #b2
+{
+    margin-top: 2em !important;
+}
+
+#prg-2
+{
+    height: 1em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+    background-color: #435A29;
+}
+
+#progress-bar
+{
+    width: 0%;
+    background-color: #435A29 !important;
+}
+
+#progress-bar-2
+{
+    width: 100%;
+    background-color: #5E7E39 !important;
+}
+
+::-webkit-scrollbar
+{
+	width: 10px;
+}
+  
+::-webkit-scrollbar-track
+{
+	background: #8BC34A;
+}
+  
+::-webkit-scrollbar-thumb
+{
+	background: #5E7E39;
+}
+  
+::-webkit-scrollbar-thumb:hover
+{
+	background: #435A29; 
+}

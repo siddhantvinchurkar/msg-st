@@ -1,4 +1,4 @@
-	{
+{
   "name": "msg-st",
   "version": "1.0.0",
   "description": "This is the official MSG Speed Test App",
@@ -28,6 +28,7 @@
   "dependencies": {
     "next": "^9.3.4",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0"
   }
 }
