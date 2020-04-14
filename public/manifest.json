@@ -33,10 +33,10 @@
             "sizes": "512x512"
         }
     ],
-    "background_color": "#FFFFFF",
+    "background_color": "#DDFFDD",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#0070F3",
+    "theme_color": "#8BC34A",
     "start_url": "index.html",
     "manifest_version": 2,
     "version": "1.0",

@@ -1,20 +1,19 @@
-import Link from 'next/link';
 import Head from 'next/head';
 
 const Headdie = () => (
     <Head>
-        <link rel="preconnect" href="https://msg-st.wildscript.tech/" />
-        <link rel="preconnect" href="https://api.msg-st.wildscript.tech/" />
-        <link rel="preconnect" href="https://jsonip.com/" />
-        <link rel="preconnect" href="https://google.com" crossorigin />
-        <link rel="preconnect" href="https://firebaseremoteconfig.googleapis.com" crossorigin />
-        <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
-        <link rel="preconnect" href="https://storage.googleapis.com" crossorigin />
-        <link rel="preconnect" href="https://firebaseinstallations.googleapis.com" crossorigin />
-        <link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta http-equiv="cache-control" content="Private" />
-        <meta http-equiv="Expires" content="31536000" />
+        <link rel="preconnect" href="https://msg-st.wildscript.tech/" crossOrigin="true" />
+        <link rel="preconnect" href="https://api.msg-st.wildscript.tech/" crossOrigin="true" />
+        <link rel="preconnect" href="https://jsonip.com/" crossOrigin="true" />
+        <link rel="preconnect" href="https://google.com" crossOrigin="true" />
+        <link rel="preconnect" href="https://firebaseremoteconfig.googleapis.com" crossOrigin="true" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="true" />
+        <link rel="preconnect" href="https://storage.googleapis.com" crossOrigin="true" />
+        <link rel="preconnect" href="https://firebaseinstallations.googleapis.com" crossOrigin="true" />
+        <link rel="preconnect" href="https://fonts.googleapis.com/" crossOrigin="true" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta httpEquiv="cache-control" content="Private" />
+        <meta httpEquiv="Expires" content="31536000" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#0070F3" />
         <meta name="Description" content="This is the official MSG Speed Test App." />
