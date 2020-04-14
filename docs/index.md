@@ -76,7 +76,7 @@
    npm install --save react-helmet
    ```
 
-8. The [package.json](../package.json "package.json") file lists all dependencies of this app so a quick way to execute steps 4 and 5 is:
+8. The [package.json](https://github.com/siddhantvinchurkar/msg-st/blob/master/package.json "package.json") file lists all dependencies of this app so a quick way to execute steps 4 and 5 is:
 
    ```bash
    npm install --save
@@ -151,15 +151,15 @@
 
 ## API Access
 
-1. The [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API is free and open to anyone who wishes to use it and there’s just one encrypted endpoint: [https://api.msg-st.wildscript.tech](https://api.msg-st.wildscript.tech).
-2. To access the [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API you will need [public/scripts/network.min.js](../public/scripts/network.min.js "network.min.js").
-3. Follow the implementation of the [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API in [public/scripts/main.js](../public/scripts/main.js "main.js") to consume the [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API.
+1. The [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API is free and open to anyone who wishes to use it and there’s just one encrypted endpoint: [https://api.msg-st.wildscript.tech](https://api.msg-st.wildscript.tech).
+2. To access the [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API you will need [public/scripts/network.min.js](https://github.com/siddhantvinchurkar/msg-st/blob/master/public/scripts/network.min.js "network.min.js").
+3. Follow the implementation of the [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API in [public/scripts/main.js](https://github.com/siddhantvinchurkar/msg-st/blob/master/public/scripts/main.js "main.js") to consume the [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")API.
 
 
 
 ## License and Privacy
 
-1. I believe in freedom. Which is why this repository is licensed using [![Some things in life are worth waiting for…](wtfpl-badge.png "WTFPL")](http://www.wtfpl.net/ "WTFPL") ([view license](../LICENSE.md "License - WTFPL")).
+1. I believe in freedom. Which is why this repository is licensed using [![Some things in life are worth waiting for…](wtfpl-badge.png "WTFPL")](http://www.wtfpl.net/ "WTFPL") ([view license](https://github.com/siddhantvinchurkar/msg-st/blob/master/LICENSE.md "License - WTFPL")).
 2. In a world where data is king, guarding privacy is a must. Which is why my version of [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App") will never collect any personal information. That being said, I still maintain a __GDPR compliant privacy policy__ available at [https://msg-st.wildscript.tech/privacy](https://msg-st.wildscript.tech/privacy "Privacy Policy").
 
 
