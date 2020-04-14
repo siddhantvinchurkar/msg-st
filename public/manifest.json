@@ -1,6 +1,6 @@
 {
-    "short_name": "MSG | Speed Test",
-    "name": "This is the official MSG Speed Test App.",
+    "short_name": "MSG-ST",
+    "name": "MSG | Speed Test",
     "icons": [
         {
             "src": "/images/icons/favicon_48.png",
