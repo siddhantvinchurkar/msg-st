@@ -51,7 +51,7 @@
 
    
 
-3. [![Some things in life are worth waiting for…](../public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")is built using [![Some things in life are worth waiting for…](react_js_logo.png "React.js")](https://reactjs.org/ "React.js")and[![Some things in life are worth waiting for…](next_js_logo.png "Next.js")](https://nextjs.org/ "Next.js").
+3. [![Some things in life are worth waiting for…](https://raw.githubusercontent.com/siddhantvinchurkar/msg-st/master/public/images/icons/favicon_48.png "MSG Speed Test App")](https://msg-st.wildscript.tech/ "MSG Speed Test App")is built using [![Some things in life are worth waiting for…](react_js_logo.png "React.js")](https://reactjs.org/ "React.js")and[![Some things in life are worth waiting for…](next_js_logo.png "Next.js")](https://nextjs.org/ "Next.js").
 
 4. [![Some things in life are worth waiting for…](react_js_logo.png "React.js")](https://reactjs.org/ "React.js")and[![Some things in life are worth waiting for…](next_js_logo.png "Next.js")](https://nextjs.org/ "Next.js")need [![Some things in life are worth waiting for…](node_js_logo.png "Node.js")](https://nodejs.org/en/ "Node.js")to run.
 
