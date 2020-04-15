@@ -26,6 +26,11 @@ function Index() {
                                 <CardPanel title="Upload Bandwidth" subtitle="Mbps" id="upload" cid="b2" />
                             </div>
                         </div>
+                        <div className="row">
+                            <div className="col s6 m6 l2 xl2 offset-s3 offset-m3 offset-l5 offset-xl5">
+                                <a id="retest" className="btn-large waves-effect waves-light light-green z-depth-5 black-text"><i className="material-icons left black-text large-bold">refresh</i><b>Retest</b></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </main>

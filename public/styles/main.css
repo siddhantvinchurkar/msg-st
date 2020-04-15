@@ -19,7 +19,7 @@ body
 main
 {
    flex: 1 0 auto;
-   padding-top: 12em !important;
+   padding-top: 10em !important;
    min-height: 47.7em !important;
 }
 
@@ -98,6 +98,12 @@ nav
 {
     border-radius: 2em !important;
     border: 0.5em solid #435A29 !important;
+}
+
+.large-bold
+{
+    font-size: 2em !important;
+    font-weight: bolder !important;
 }
 
 #b1, #b2

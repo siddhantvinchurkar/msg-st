@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -524,48 +524,13 @@ const Footer = () => __jsx("footer", {
     lineNumber: 22,
     columnNumber: 13
   }
-}, "\xA9 ", __jsx("span", {
-  id: "footerYear",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23,
-    columnNumber: 24
-  }
-}, "2020"), " ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "//msg-st.wildscript.tech/images/blank_render_logo.webp",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23,
-    columnNumber: 58
-  }
-}, __jsx("a", {
-  className: "styled-link",
-  target: "_blank",
-  rel: "noreferrer",
-  title: "Blank Render, Inc.",
-  "aria-label": "Blank Render, Inc.",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23,
-    columnNumber: 126
-  }
-}, __jsx("b", {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23,
-    columnNumber: 245
-  }
-}, "lank Render, Inc."))), " All rights reserved. | ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "//docs.msg-st.wildscript.tech/",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 304
+    columnNumber: 17
   }
 }, __jsx("a", {
   className: "styled-link",
@@ -577,16 +542,77 @@ const Footer = () => __jsx("footer", {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 348
+    columnNumber: 61
   }
 }, __jsx("b", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 465
+    columnNumber: 178
   }
-}, "API Documentation"))), __jsx("a", {
+}, "API Documentation"))), " | ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/privacy",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 216
+  }
+}, __jsx("a", {
+  className: "styled-link",
+  rel: "noreferrer",
+  title: "Privacy Policy",
+  "aria-label": "Privacy Policy",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 238
+  }
+}, __jsx("b", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 333
+  }
+}, "Privacy Policy"))), " | \xA9 ", __jsx("span", {
+  id: "footerYear",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 375
+  }
+}, "2020"), " ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "//msg-st.wildscript.tech/images/blank_render_logo.webp",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 409
+  }
+}, __jsx("a", {
+  className: "styled-link",
+  target: "_blank",
+  rel: "noreferrer",
+  title: "Blank Render, Inc.",
+  "aria-label": "Blank Render, Inc.",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 477
+  }
+}, __jsx("b", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 596
+  }
+}, "Blank Render, Inc."))), " All rights reserved.", __jsx("a", {
   className: "black-text right",
   href: "#!",
   __self: undefined,
@@ -2902,14 +2928,54 @@ function Index() {
       lineNumber: 26,
       columnNumber: 33
     }
-  })))))), __jsx("script", {
+  }))), __jsx("div", {
+    className: "row",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29,
+      columnNumber: 25
+    }
+  }, __jsx("div", {
+    className: "col s6 m6 l2 xl2 offset-s3 offset-m3 offset-l5 offset-xl5",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30,
+      columnNumber: 29
+    }
+  }, __jsx("a", {
+    id: "retest",
+    className: "btn-large waves-effect waves-light light-green z-depth-5 black-text",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 33
+    }
+  }, __jsx("i", {
+    className: "material-icons left black-text large-bold",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 128
+    }
+  }, "refresh"), __jsx("b", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31,
+      columnNumber: 196
+    }
+  }, "Retest"))))))), __jsx("script", {
     type: "text/javascript",
     src: "/scripts/jquery.min.js",
     defer: true,
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 37,
       columnNumber: 13
     }
   }), __jsx("script", {
@@ -2919,7 +2985,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33,
+      lineNumber: 38,
       columnNumber: 13
     }
   }), __jsx("script", {
@@ -2929,7 +2995,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34,
+      lineNumber: 39,
       columnNumber: 13
     }
   }), __jsx("script", {
@@ -2939,7 +3005,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35,
+      lineNumber: 40,
       columnNumber: 13
     }
   }), __jsx("script", {
@@ -2949,7 +3015,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36,
+      lineNumber: 41,
       columnNumber: 13
     }
   }), __jsx("script", {
@@ -2959,7 +3025,7 @@ function Index() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37,
+      lineNumber: 42,
       columnNumber: 13
     }
   }));
@@ -2969,7 +3035,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

@@ -37,7 +37,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "theme_color": "#8BC34A",
-    "start_url": "index.html",
+    "start_url": "https://msg-st.wildscript.tech",
     "manifest_version": 2,
     "version": "1.0",
     "summary": "This is the official MSG Speed Test App."
