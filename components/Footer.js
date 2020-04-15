@@ -20,7 +20,7 @@ const Footer = () => (
         </div>
         <div className="footer-copyright">
             <div className="container black-text">
-                <Link href="//docs.msg-st.wildscript.tech/"><a className="styled-link" target="_blank" rel="noreferrer" title="API Documentation" aria-label="API Documentation"><b>API Documentation</b></a></Link> | <Link href="/privacy"><a className="styled-link" rel="noreferrer" title="Privacy Policy" aria-label="Privacy Policy"><b>Privacy Policy</b></a></Link> | &copy; <span id="footerYear">2020</span> <Link href="//msg-st.wildscript.tech/images/blank_render_logo.webp"><a className="styled-link" target="_blank" rel="noreferrer" title="Blank Render, Inc." aria-label="Blank Render, Inc."><b>Blank Render, Inc.</b></a></Link> All rights reserved.
+                <Link href="//docs.msg-st.wildscript.tech/"><a className="styled-link" target="_blank" rel="noreferrer" title="API Documentation" aria-label="API Documentation"><b>API Documentation</b></a></Link> | <Link href="/privacy"><a className="styled-link" rel="noreferrer" title="Privacy Policy and Terms of Service" aria-label="Privacy Policy and Terms of Service"><b>Privacy Policy and Terms of Service</b></a></Link> | &copy; <span id="footerYear">2020</span> <Link href="//msg-st.wildscript.tech/images/blank_render_logo.webp"><a className="styled-link" target="_blank" rel="noreferrer" title="Blank Render, Inc." aria-label="Blank Render, Inc."><b>Blank Render, Inc.</b></a></Link> All rights reserved.
                 <a className="black-text right" href="#!"><b><i>Made with <i className="material-icons red-text heart-shadow">favorite</i>&emsp;for members of MSG</i></b></a>
             </div>
         </div>

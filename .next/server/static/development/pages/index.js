@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -562,8 +562,8 @@ const Footer = () => __jsx("footer", {
 }, __jsx("a", {
   className: "styled-link",
   rel: "noreferrer",
-  title: "Privacy Policy",
-  "aria-label": "Privacy Policy",
+  title: "Privacy Policy and Terms of Service",
+  "aria-label": "Privacy Policy and Terms of Service",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -575,15 +575,15 @@ const Footer = () => __jsx("footer", {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 333
+    columnNumber: 375
   }
-}, "Privacy Policy"))), " | \xA9 ", __jsx("span", {
+}, "Privacy Policy and Terms of Service"))), " | \xA9 ", __jsx("span", {
   id: "footerYear",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 375
+    columnNumber: 438
   }
 }, "2020"), " ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "//msg-st.wildscript.tech/images/blank_render_logo.webp",
@@ -591,7 +591,7 @@ const Footer = () => __jsx("footer", {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 409
+    columnNumber: 472
   }
 }, __jsx("a", {
   className: "styled-link",
@@ -603,14 +603,14 @@ const Footer = () => __jsx("footer", {
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 477
+    columnNumber: 540
   }
 }, __jsx("b", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23,
-    columnNumber: 596
+    columnNumber: 659
   }
 }, "Blank Render, Inc."))), " All rights reserved.", __jsx("a", {
   className: "black-text right",
@@ -3035,7 +3035,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 5:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

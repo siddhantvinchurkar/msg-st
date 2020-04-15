@@ -476,8 +476,8 @@ var Footer = function Footer() {
   }, __jsx("a", {
     className: "styled-link",
     rel: "noreferrer",
-    title: "Privacy Policy",
-    "aria-label": "Privacy Policy",
+    title: "Privacy Policy and Terms of Service",
+    "aria-label": "Privacy Policy and Terms of Service",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -489,15 +489,15 @@ var Footer = function Footer() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
-      columnNumber: 333
+      columnNumber: 375
     }
-  }, "Privacy Policy"))), " | \xA9 ", __jsx("span", {
+  }, "Privacy Policy and Terms of Service"))), " | \xA9 ", __jsx("span", {
     id: "footerYear",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
-      columnNumber: 375
+      columnNumber: 438
     }
   }, "2020"), " ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "//msg-st.wildscript.tech/images/blank_render_logo.webp",
@@ -505,7 +505,7 @@ var Footer = function Footer() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
-      columnNumber: 409
+      columnNumber: 472
     }
   }, __jsx("a", {
     className: "styled-link",
@@ -517,14 +517,14 @@ var Footer = function Footer() {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
-      columnNumber: 477
+      columnNumber: 540
     }
   }, __jsx("b", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
-      columnNumber: 596
+      columnNumber: 659
     }
   }, "Blank Render, Inc."))), " All rights reserved.", __jsx("a", {
     className: "black-text right",
@@ -11312,7 +11312,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 3:
 /*!**********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fsiddhantvinchurkar%2FNode.js%20Projects%2FMSG%20Speed%20Test%2Fpages%2Findex.js ***!
   \**********************************************************************************************************************************************************/
@@ -11335,5 +11335,5 @@ module.exports = dll_c2e10d183b950a67d9e7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
