@@ -9,18 +9,10 @@ html
     background-color: #DDFFDD !important;
 }
 
-body
-{
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-
 main
 {
    flex: 1 0 auto;
-   padding-top: 10em !important;
-   min-height: 47.7em !important;
+   padding-top: 6em !important;
 }
 
 nav
@@ -46,30 +38,26 @@ nav
 .footer-logo
 {
     font-size: 3em !important;
-    line-height: 0.4em !important;
-    text-shadow: 12px 10px #435A29 !important;
+    line-height: 0.1em !important;
+    text-shadow: 6px 5px #5E7E39 !important;
 }
 
 .header-logo
 {
     font-size: 3em !important;
-    text-shadow: 6px 5px #435A29 !important;
+    text-shadow: 6px 5px #5E7E39 !important;
 }
 
 .xl-text-footer
 {
-    font-size: 4.5em !important;
-}
-
-.xl-text-footer-heading
-{
-    font-size: 4.5em !important;
-    text-shadow: 6px 5px #435A29 !important;
+    font-size: 3em !important;
+    text-shadow: 4px 3px #5E7E39 !important;
 }
 
 .heart-shadow
 {
     text-shadow: 4px 5px #5A0000 !important;
+    font-size: 1em !important;
 }
 
 .lobster
@@ -79,12 +67,12 @@ nav
 
 .styled-link
 {
-    color: #435A29 !important;
+    color: #5E7E9E !important;
 }
 
 .card-header-shadow
 {
-    text-shadow: 3px 3px #435A29 !important;
+    text-shadow: 3px 3px #5E7E39 !important;
 }
 
 .progress
@@ -100,10 +88,41 @@ nav
     border: 0.5em solid #435A29 !important;
 }
 
+.card-panel-small
+{
+    padding: 0em !important;
+}
+
 .large-bold
 {
     font-size: 2em !important;
     font-weight: bolder !important;
+    text-shadow: 3px 2px #5E7E39 !important;
+}
+
+.slightly-large
+{
+    font-size: 1.5em !important;
+    text-shadow: 3px 2px #5E7E39 !important;
+}
+
+.footer-copyright
+{
+    font-size: 1.2em !important;
+}
+
+#rootDiv
+{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+#retest
+{
+    min-width: 100% !important;
+    border-radius: 1em !important;
+    border: 0.3em solid #435A29 !important;
 }
 
 #b1, #b2

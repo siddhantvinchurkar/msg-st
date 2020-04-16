@@ -3,6 +3,8 @@
 
 
 
+
+
 ## Quick Start
 
 1. __No, I will not explain how to do this on MacOS or Windows. Get Linux.__
@@ -23,15 +25,20 @@
 
 4. Watch it blow your mind at [http://localhost:1000/](http://localhost:1000/ "localhost on port 1000").
 
-   
 
-## Table of contents
+
+
+
+
+## Table of Contents
 
 1. [Get Started](#get-started "Get Started")
 2. [Life Hacks](#life-hacks "Life Hacks")
 3. [API Access](#api-access "API Access")
 4. [License and Privacy](#license-and-privacy "License and Privacy")
 5. [Credits](#credits "Credits")
+
+
 
 
 
@@ -110,6 +117,8 @@
 
 
 
+
+
 ## Life Hacks
 
 1. If you use [![Some things in life are worth waiting for…](vs_code_logo.png "Visual Studio Code")](https://code.visualstudio.com/ "Visual Studio Code") you can run the following one word command to get started:
@@ -145,7 +154,9 @@
    sudo npm i -g now
    ```
 
-   > At the end of it, a URL that looks a bit like this - [https://msg-speed-test.now.sh/](https://msg-speed-test.now.sh/ "MSG Speed Test App") will be copied to your clipboard automatically. This is the URL that points to your [![Some things in life are worth waiting for…](node_js_logo.png "Node.js")](https://nodejs.org/en/ "Node.js")server running on [![Some things in life are worth waiting for…](zeit_logo.png "Zeit")](https://zeit.co/ "Zeit").
+   > At the end of it, a URL that looks a bit like this - [https://msg-st.now.sh/](https://msg-st.now.sh/ "MSG Speed Test App") will be copied to your clipboard automatically. This is the URL that points to your [![Some things in life are worth waiting for…](node_js_logo.png "Node.js")](https://nodejs.org/en/ "Node.js")server running on [![Some things in life are worth waiting for…](zeit_logo.png "Zeit")](https://zeit.co/ "Zeit").
+
+
 
 
 
@@ -157,6 +168,8 @@
 
 
 
+
+
 ## License and Privacy
 
 1. I believe in freedom. Which is why this repository is licensed using [![Some things in life are worth waiting for…](wtfpl-badge.png "WTFPL")](http://www.wtfpl.net/ "WTFPL") ([view license](https://github.com/siddhantvinchurkar/msg-st/blob/master/LICENSE.md "License - WTFPL")).
@@ -165,8 +178,10 @@
 
 
 
+
+
 ## Credits
 
-1. Credit goes to [Dhanush Lingaswamy](https://github.com/dhanushkuchki "Dhanush Lingaswamy") for suggesting that I build a speed test app.
+1. Credit goes to [Dhanush Kuchki](https://github.com/dhanushkuchki "Dhanush Kuchki") for suggesting that I build a speed test app.
 2. Credit also goes to all members of MSG, who actively supported the development of this app.
 3. But most importantly, credit goes to [Johann Pardanaud (nesk)](https://github.com/nesk "Johann Pardanaud (nesk)") for creating [network.js](https://github.com/nesk/network.js "network.js") which is the reason this app even works.

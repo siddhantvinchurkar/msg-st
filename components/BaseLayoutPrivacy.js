@@ -4,7 +4,7 @@ import Header from './Header';
 import FooterPrivacy from './FooterPrivacy';
 
 const LayoutPrivacy = props => (
-    <div>
+    <div id="rootDiv">
         <Headdie />
         <Header />
         <Helmet>

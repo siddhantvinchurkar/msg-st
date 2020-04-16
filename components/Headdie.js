@@ -15,7 +15,7 @@ const Headdie = () => (
         <meta httpEquiv="cache-control" content="Private" />
         <meta httpEquiv="Expires" content="31536000" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="theme-color" content="#0070F3" />
+        <meta name="theme-color" content="#8BC34A" />
         <meta name="Description" content="This is the official MSG Speed Test App." />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="keywords" content="msg,siddhant,niranjan,adil,dhanush,aaqil,avinesh,zabeeh,wilbun,abdylla,chris" />

@@ -16,6 +16,10 @@ window.onload = () => {
     $('#latency').html('0');
     $('#download').html('0');
     $('#upload').html('0');
+    $('#ip2').html('Fetching...');
+    $('#latency2').html('0');
+    $('#download2').html('0');
+    $('#upload2').html('0');
 
     /* Hide the retest button */
 
@@ -28,6 +32,7 @@ window.onload = () => {
         /* Update UI to display fetched IP address */
 
         $('#ip').html(json.ip);
+        $('#ip2').html(json.ip);
 
     });
 
@@ -90,6 +95,7 @@ window.onload = () => {
         /* Calculate upload speed and update UI to display it */
 
         $('#upload').html(Math.floor((aS * 1.2 / 1e+4)));
+        $('#upload2').html(Math.floor((aS * 1.2 / 1e+4)));
 
         /* Reveal the retest button */
 
@@ -104,10 +110,12 @@ window.onload = () => {
         /* Calculate download speed and update UI to display it */
 
         $('#download').html(Math.floor((aS * 2.67 / 1e+6)));
+        $('#download2').html(Math.floor((aS * 2.67 / 1e+6)));
 
         /* Update UI to display status of upload speed test before triggering it */
 
         $('#upload').html('[Testing]');
+        $('#upload2').html('[Testing]');
 
         /* Trigger the upload speed test */
 
@@ -135,10 +143,12 @@ window.onload = () => {
         /* Calculate average latency and update UI to display it */
 
         $('#latency').html(Math.floor(aLy));
+        $('#latency2').html(Math.floor(aLy));
 
         /* Update UI to display status of download speed test before triggering it */
 
         $('#download').html('[Testing]');
+        $('#download2').html('[Testing]');
 
         /* Trigger the download speed test */
 
@@ -162,6 +172,7 @@ window.onload = () => {
     /* Update UI to display status of latency test before triggering it */
 
     $('#latency').html('[Testing]');
+    $('#latency2').html('[Testing]');
 
     /* Trigger the latency test (or the entirety of the speed test) */
 
@@ -205,6 +216,7 @@ window.onload = () => {
         /* Update UI to display status of latency test before triggering it */
 
         $('#latency').html('[Testing]');
+        $('#latency2').html('[Testing]');
 
         /* Trigger the latency test (or the entirety of the speed test) */
 

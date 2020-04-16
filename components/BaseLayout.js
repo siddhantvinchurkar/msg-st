@@ -4,7 +4,7 @@ import Header from './Header';
 import Footer from './Footer';
 
 const Layout = props => (
-    <div>
+    <div id="rootDiv">
         <Headdie />
         <Header />
         <Helmet>
