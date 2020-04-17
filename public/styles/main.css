@@ -12,7 +12,7 @@ html
 main
 {
    flex: 1 0 auto;
-   padding-top: 6em !important;
+   padding-top: 10em !important;
 }
 
 nav
@@ -56,7 +56,7 @@ nav
 
 .heart-shadow
 {
-    text-shadow: 4px 5px #5A0000 !important;
+    text-shadow: 4px 5px #6E0000 !important;
     font-size: 1em !important;
 }
 
@@ -67,7 +67,7 @@ nav
 
 .styled-link
 {
-    color: #5E7E9E !important;
+    color: #6A1B9A !important;
 }
 
 .card-header-shadow
@@ -114,7 +114,7 @@ nav
 #rootDiv
 {
     display: flex;
-    min-height: 100vh;
+    min-height: 136vh;
     flex-direction: column;
 }
 
@@ -162,10 +162,11 @@ nav
   
 ::-webkit-scrollbar-thumb
 {
-	background: #5E7E39;
+    background: #5E7E39;
+    border-radius: 5em;
 }
   
 ::-webkit-scrollbar-thumb:hover
 {
-	background: #435A29; 
+    background: #435A29;
 }

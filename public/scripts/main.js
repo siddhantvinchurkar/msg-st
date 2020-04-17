@@ -23,7 +23,7 @@ window.onload = () => {
 
     /* Hide the retest button */
 
-    $('#retest').fadeOut(1);
+    $('#retest').addClass('disabled');
 
     /* Use the jsonip API to fetch user's current public IP address */
 
@@ -99,7 +99,7 @@ window.onload = () => {
 
         /* Reveal the retest button */
 
-        $('#retest').fadeIn(1500);
+        $('#retest').removeClass('disabled');
 
     });
 
@@ -184,7 +184,7 @@ window.onload = () => {
 
         /* Hide the retest button */
 
-        $('#retest').fadeOut(1500);
+        $('#retest').addClass('disabled');
 
         /* Reset progress bar animation */
 
